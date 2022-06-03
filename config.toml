@@ -26,7 +26,7 @@ _merge = "none"
   # email does still work but is deprecated.
   # use [params.contact.email] instead.
   email = "info@uzayvida.com.tr"
-  description = "Uzay Bağlantı Elemanları Makina"
+  description = "Uzay Bağlantı Elemanları"
   bio = "Bedirhan Özdemir  \nbedirhan@uzayvida.com.tr \n\nMelih Gökçek Bulvarı Elektrokent 2 İş Merkezi 83/27 Ostim Yenimahalle - Ankara"
   avatar = "img/uzayvida2.png"
   favicon = "img/favicon.ico"
